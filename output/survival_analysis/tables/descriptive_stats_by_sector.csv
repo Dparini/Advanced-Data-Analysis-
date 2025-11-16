@@ -1,0 +1,7 @@
+sector,time_years_count,time_years_mean,time_years_median,time_years_std,event_sum,event_mean,vc_backed_binary_mean
+Other,6958,4.89,3.567,4.547,5108,0.734,0.565
+SaaS,1448,4.402,3.493,2.79,75,0.052,1.0
+AI/ML,1334,3.945,3.493,2.609,41,0.031,1.0
+FinTech,821,4.229,3.493,2.416,37,0.045,1.0
+Healthcare,534,4.979,4.496,2.629,17,0.032,1.0
+Consumer,83,4.065,3.535,2.111,12,0.145,1.0

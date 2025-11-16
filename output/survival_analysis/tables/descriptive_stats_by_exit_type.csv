@@ -1,0 +1,3 @@
+exit_type,time_years_count,time_years_mean,time_years_median,time_years_std,founding_year_mean,founding_year_min,founding_year_max,vc_backed_binary_mean
+IPO,4967,4.718,3.069,4.973,2008.685,1995,2024,0.39
+M&A,323,5.102,5.123,0.97,2013.601,2005,2019,1.0

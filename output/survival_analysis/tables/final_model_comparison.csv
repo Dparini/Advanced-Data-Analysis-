@@ -1,0 +1,5 @@
+Model,C-index (Test),Type,PH_Assumption,Interpretability
+Cox PH (Time-Varying),0.912,Parametric,Relaxed,Medium
+Random Survival Forest,0.8513263155313882,Non-Parametric (Tree),Not Required,Medium
+Gradient Boosting,0.8405567299566259,Non-Parametric (Tree),Not Required,Medium
+Cox PH (Standard),0.834,Parametric,Required,High

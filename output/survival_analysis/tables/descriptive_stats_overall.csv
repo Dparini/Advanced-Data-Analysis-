@@ -1,0 +1,12 @@
+Metric,Value
+Total Companies,11178.0
+IPO Exits,5290.0
+Censored,5888.0
+Event Rate (%),47.33
+Mean Time (years),4.66
+Median Time (years),3.49
+Std Time (years),3.95
+Min Time (years),0.0
+Max Time (years),28.93
+VC-Backed Count,8148.0
+VC-Backed Rate (%),72.89
